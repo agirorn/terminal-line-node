@@ -2,6 +2,7 @@
   "name": "@agirorn/terminal-line",
   "version": "0.0.4",
   "description": "Prints a line across the terminal",
+  "private": false,
   "keywords": [
     "terminal",
     "line",
