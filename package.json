@@ -1,6 +1,6 @@
 {
-  "name": "terminal-line",
-  "version": "0.0.0",
+  "name": "@agirorn/terminal-line",
+  "version": "0.0.1",
   "description": "Prints a line across the terminal",
   "keywords": [
     "terminal",

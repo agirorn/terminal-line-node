@@ -8,10 +8,10 @@ Prints a line across the terminal
 
 ```shel
 # Using Yarn
-yarn add terminal-line
+yarn add @agirorn/terminal-line
 
 # Using npm
-npm install terminal-line
+npm install @agirorn/terminal-line
 ```
 
 ## Usage
