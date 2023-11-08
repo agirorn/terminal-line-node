@@ -30,6 +30,6 @@
     "terminal-line": "bin/terminal-line.js"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=10"
   }
 }
