@@ -1,0 +1,35 @@
+{
+  "name": "terminal-line",
+  "version": "0.0.0",
+  "description": "Prints a line across the terminal",
+  "keywords": [
+    "terminal",
+    "line",
+    "command line"
+  ],
+  "homepage": "https://github.com/agirorn/terminal-line-node#readme",
+  "bugs": {
+    "url": "https://github.com/agirorn/terminal-line-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agirorn/terminal-line-node.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ægir Örn Símonarson",
+    "email": "agirorn@gmail.com",
+    "url": "https://github.com/agirorn"
+  },
+  "files": [
+    "bin",
+    "LICENCE",
+    "assets/cover.png"
+  ],
+  "bin": {
+    "terminal-line": "bin/terminal-line.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
