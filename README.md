@@ -17,6 +17,6 @@ npm install @agirorn/terminal-line
 ## Usage
 
 ```shel
-terminal-line
+yarn -s terminal-line
 -----------------------------------------------------------
 ```
